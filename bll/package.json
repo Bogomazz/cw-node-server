@@ -1,0 +1,16 @@
+{
+  "name": "bll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dominion": "git+https://github.com/yura-chaikovsky/dominion.git",
+    "request-promise": "git+https://github.com/Bogomazz/request-promise",
+    "urlencode": "^1.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
